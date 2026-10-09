@@ -216,4 +216,4 @@ Earth3D is the full free version with all features and updates included. There a
 Experience the beauty and changes of Earth today. **Download Earth3D free and unlock your planet's mysteries!**
 
 ---
-**Last updated:** 2026-10-09 15:46:10 UTC
+**Last updated:** 2026-10-09 20:29:40 UTC
